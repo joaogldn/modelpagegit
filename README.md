@@ -1,25 +1,31 @@
-## Bem-vindo(a) ao meu perfil! 😁
+---
 
- <div>
-  <a href="https://github.com/brunah-rayCarv">
-   <a href="https://github.com/brunah-rayCarv">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunah-rayCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunah-rayCarv&layout=compact&langs_count=6&theme=onedark"/>
-  </a>
+# Bruna Carvalho
+Olá, Me chamo Bruna! Sou estudante, atualmente cursando o segundo período do curso de Análise e Desenvolvimento de Sistemas. Sou Back-end developer, buscando cada vez mais por oportunidades!
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Minhas redes!
- 
-<div> 
-  <a href="https://instagram.com/brufleur_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunaray.deobi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Conecte-se comigo!
+[![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=d14836)](gmail:brucarv.nah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/bruna-carvalho-41389326b/)
+
+
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=8A2BE2)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF69B4)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=8A2BE2)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF69B4)](https://docs.github.com/)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunah-rayCarv&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=FFF&hide_title=true&hide=stars)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunah-rayCarv&layout=compact&bg_color=000&border_color=FF69B4&title_color=8A2BE2&text_color=FFF)
+
+
+### Meus Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=00BFFF&title_color=8A2BE2&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=00BFFF&title_color=8A2BE2&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
+---
+<rect xmlns="http://www.w3.org/2000/svg" width="87.25" height="28" fill="#d14836"/>
+
+<rect xmlns="http://www.w3.org/2000/svg" width="111" height="28" fill="#0077b5"/>
