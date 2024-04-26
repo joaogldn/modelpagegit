@@ -1,7 +1,7 @@
 ---
 
 # Bruna Carvalho
-Olá, Me chamo Bruna! Sou estudante, atualmente cursando o segundo período do curso de Análise e Desenvolvimento de Sistemas. Sou Back-end developer, buscando cada vez mais por oportunidades!
+Olá, Me chamo Bruna! Sou estudante, atualmente cursando o terceiro período do curso de Análise e Desenvolvimento de Sistemas. Sou Back-end developer, buscando cada vez mais por oportunidades!
 
 ### Conecte-se comigo!
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=d14836)](gmail:brucarv.nah@gmail.com)
@@ -19,11 +19,6 @@ Olá, Me chamo Bruna! Sou estudante, atualmente cursando o segundo período do c
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunah-rayCarv&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=FFF&hide_title=true&hide=stars)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunah-rayCarv&layout=compact&bg_color=000&border_color=FF69B4&title_color=8A2BE2&text_color=FFF)
-
-
-### Meus Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=00BFFF&title_color=8A2BE2&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=00BFFF&title_color=8A2BE2&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 
 ---
 <rect xmlns="http://www.w3.org/2000/svg" width="87.25" height="28" fill="#d14836"/>
