@@ -1,10 +1,10 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/419b1971-0a5b-4414-b5d6-64e368f90579"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubunto&pause=100&color=CA66C7&center=true&width=435&lines=Welcome!+my+name+is+Bruna+Carvalho;I'm+a+Software+Developer;Take+a+look+bellow%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubunto&size=23&pause=100&color=CA66C7&vCenter=true&width=435&lines=Welcome!+my+name+is+Bruna+Carvalho;I'm+a+Software+Developer!)](https://git.io/typing-svg)
 
 <div>
-  
+
 ### My Skills
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=924A90)
